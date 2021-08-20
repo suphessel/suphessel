@@ -1,17 +1,25 @@
-### Hi, i'm Suzana Hessel 👋
+<h1 align='center'>
+Hi, i'm Suzana Hessel 👋
+</h1>
 
 - 🔭 I’m currently working on Front-end 
 - 🌱 I’m currently learning Back-end (Typescript, MySQL...)
 - 😄 Pronouns: ela/dela/she/her
 - 📫 How to reach me: <a href='mailto:suhessel28@gmail.com'>suhessel28@gmail.com</a>
 
+<!--  <p align='center'>
+  <a href="https://https://www.linkedin.com/in/suzana-hessel/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<p/> -->
+
 ##
 
- <div>
+ <p align='center'>
   <a href="https://github.com/suphessel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suphessel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suphessel&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
+<p/>
   
 <!--   </div>
 <div style="display: inline_block"><br>
@@ -75,3 +83,11 @@
 </p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suphessel" alt="suphessel" /> </p>
+   
+##
+
+   <div> 
+  <a href="https://https://www.linkedin.com/in/suzana-hessel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
