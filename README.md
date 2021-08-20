@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Front-end 
 - 🌱 I’m currently learning Back-end (Typescript, MySQL...)
 - 😄 Pronouns: ela/dela/she/her
+- 📫 How to reach me: <a href='mailto:suhessel28@gmail.com'>suhessel28@gmail.com</a>
+
+##
 
  <div>
   <a href="https://github.com/suphessel">
@@ -18,11 +21,8 @@
   <img align="center" alt="Suh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> -->
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:suhessel28@gmail.com'>suhessel28@gmail.com</a>
-</p>
-
+ 
+ ##
 
 <details>
   <summary>📃 My Education</summary>
@@ -39,6 +39,8 @@
 
 </details>
 
+ ##
+ 
 <h2>Languages and Frameworks</h2>
 
 <p>
@@ -57,7 +59,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" /> 
 </p>
 
-
+##
+ 
 <h2>Softwares</h2>
 
 <p>
