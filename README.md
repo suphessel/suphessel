@@ -2,7 +2,7 @@
 Hi, i'm Suzana Hessel 👋
 </h1>
 
-- 🔭 I’m currently working on Front-end (Javascript, React.Js..) Back-end (Typescript, MySQL...)
+- 🔭 I'm currently looking for an opportunity as a Full Stack/Front-end/Backend Web Developer)
 - 😄 Pronouns: ela/dela/she/her
 - 📫 How to reach me: <a href='mailto:suhessel28@gmail.com'>suhessel28@gmail.com</a>
 
